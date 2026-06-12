@@ -1,6 +1,6 @@
 # Object-Oriented Programming (OOP) Assignments
 
-This repository contains academic assignments and projects for the Object-Oriented Programming course, implemented in **C++** and **Java**.
+This repository contains academic assignments of the Object-Oriented Programming course, implemented in **C++** and **Java**.
 
 ---
 
